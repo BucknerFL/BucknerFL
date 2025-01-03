@@ -2,6 +2,7 @@
 
 
 
+
 - 🔭 I’m working on learning all about code, scripts, and programmming.
 - 🌱 I’m currently learning about JavaScript.
 - 🤔 I’m looking for help with all aspects of this new educational endeavor.
