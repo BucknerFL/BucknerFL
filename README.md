@@ -5,6 +5,27 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+## About Me
+
+<!-- add more table itmes -->
+
+I enjoy teaching kids aout God.
+
+<details>
+<summary>My top hobbies</summary>
+
+| Rank | Hobbies       |
+|-----:|---------------|
+|     1| Baking        |
+|     2| Teaching      |
+|     3| Reading       |
+
+</details>
+
+---
+
+> You have power over your mind - not outside events. Realize this, and you will find strength. - Marcus Aurelius
+
 
 
 - 🔭 I’m working on learning all about code, scripts, and programmming.
